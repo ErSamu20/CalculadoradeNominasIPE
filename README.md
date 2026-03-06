@@ -26,5 +26,5 @@ Para Android:
 
 - Descargar el archivo .apk
 - Ejecutar el archivo .apk con el instalador de paquetes de tu teléfono
-- Darle los permisos para instalar aplicaciones de fuentes desconocidas (esto ocurre porque detecta que no es de Google Play Store, sin embaro esta aplicación no contiene ningún malware ni virus)
+- Darle los permisos para instalar aplicaciones de fuentes desconocidas (esto ocurre porque detecta que no es de Google Play Store, sin embargo esta aplicación no contiene ningún malware ni virus)
 - Una vez instalada la aplicación ya la puedes usar como cualquier otra
